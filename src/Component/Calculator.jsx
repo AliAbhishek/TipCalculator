@@ -50,7 +50,7 @@ const Calculator = ({ details, Reset, setDetails, setReset,setTipValue,setInputF
       <div className="bg-[#1c2f30] text-white p-14 rounded-xl ">
         <div className="flex justify-between ">
           <div className="tracking-wider">
-            <p className="font-bol text-xl">Tip Amount</p>
+            <p className="font-bold text-xl">Tip Amount</p>
             <p className="text-[#1f6165] mt-1">/Person</p>
           </div>
           <div>

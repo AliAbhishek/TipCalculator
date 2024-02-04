@@ -5,7 +5,7 @@ import Homepage from '../Pages/Homepage'
 const Routing = () => {
   return (
     <Routes>
-        <Route path='/' element={<Homepage/>} />
+        <Route path='/TipCalculator' element={<Homepage/>} />
     </Routes>
   )
 }
