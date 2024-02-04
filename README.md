@@ -1,8 +1,7 @@
-# React + Vite
+#Tip Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is the complete Tip calculator web app with all the neccessary validations.
 
-Currently, two official plugins are available:
+Here is the figma design of it.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://www.figma.com/file/6dOFzUdaAcgG7ZGD6vavq6/Tip-calculator-app?node-id=0-1&t=U7OwjCiQI0yfnrhb-0
